@@ -29,7 +29,7 @@ The major skills that are required as prerequisite to fully understand this proj
 - HTML Basics
 - Website hosting on GitHub Pages
 
-In order to complete the project, I've used Microsoft Visual Studio Code as my text editor
+In order to complete the project, I've used **Microsoft Visual Studio Code** as my text editor
 
 > The choice of text editor application might vary based on individual preferences & system settings.
 
